@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Aug 29 00:20:21 IST 2020
+https\://bams-aws.refinitiv.com/artifactory/public.maven.global/.error=Could not transfer artifact org.codehaus.groovy\:groovy-groovydoc\:pom\:3.0.2 from/to BAMS.public.maven.global (https\://bams-aws.refinitiv.com/artifactory/public.maven.global)\: Access denied to https\://bams-aws.refinitiv.com/artifactory/public.maven.global/org/codehaus/groovy/groovy-groovydoc/3.0.2/groovy-groovydoc-3.0.2.pom. Error code 403, 
+https\://m2proxy.atlassian.com/repository/public/.lastUpdated=1598640621250
+38c20064d863858af4962038d59859896f92f238@default-BAMS.public.maven.global-https\://bams-aws.refinitiv.com/artifactory/public.maven.global/.lastUpdated=1598640620591
+https\://bams-aws.refinitiv.com/artifactory/release.maven.global/.error=Could not transfer artifact org.codehaus.groovy\:groovy-groovydoc\:pom\:3.0.2 from/to bams-aws (https\://bams-aws.refinitiv.com/artifactory/release.maven.global/)\: Access denied to https\://bams-aws.refinitiv.com/artifactory/release.maven.global/org/codehaus/groovy/groovy-groovydoc/3.0.2/groovy-groovydoc-3.0.2.pom. Error code 403, 
+@default-bams-aws-https\://bams-aws.refinitiv.com/artifactory/release.maven.global/.lastUpdated=1598640620616

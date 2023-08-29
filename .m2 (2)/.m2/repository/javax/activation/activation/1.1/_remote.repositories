@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 26 13:10:12 IST 2020
+activation-1.1.pom>atlassian-public=
+activation-1.1.pom>BAMS.public.maven.global=
+activation-1.1-sources.jar>atlassian-public=
+activation-1.1.jar>atlassian-public=
+activation-1.1.jar>BAMS.public.maven.global=

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Aug 29 00:22:14 IST 2020
+groovy-xml-3.0.2-sources.jar>atlassian-public=
+groovy-xml-3.0.2.jar>atlassian-public=
+groovy-xml-3.0.2.pom>atlassian-public=

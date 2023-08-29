@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 19 14:42:37 GMT 2023
+@default-TRJFROG-release-https\://tr1.jfrog.io/tr1/libs-release/.lastUpdated=1681915356706
+https\://repo.maven.apache.org/maven2/.lastUpdated=1681915357030
+https\://tr1.jfrog.io/tr1/libs-release/.error=Could not transfer artifact org.apache.httpcomponents\:httpcore\:jar\:4.4.4 from/to TRJFROG-release (https\://tr1.jfrog.io/tr1/libs-release)\: Access denied to https\://tr1.jfrog.io/tr1/libs-release/org/apache/httpcomponents/httpcore/4.4.4/httpcore-4.4.4.jar. Error code 401, 

@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 19 14:42:42 GMT 2023
+@default-TRJFROG-release-https\://tr1.jfrog.io/tr1/libs-release/.lastUpdated=1681915362308
+https\://repo.maven.apache.org/maven2/.lastUpdated=1681915362426
+https\://tr1.jfrog.io/tr1/libs-release/.error=Could not transfer artifact net.bytebuddy\:byte-buddy\:pom\:1.12.1 from/to TRJFROG-release (https\://tr1.jfrog.io/tr1/libs-release)\: Access denied to https\://tr1.jfrog.io/tr1/libs-release/net/bytebuddy/byte-buddy/1.12.1/byte-buddy-1.12.1.pom. Error code 401, 

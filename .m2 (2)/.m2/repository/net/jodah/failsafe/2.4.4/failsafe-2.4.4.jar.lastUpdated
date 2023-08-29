@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 19 14:42:48 GMT 2023
+@default-TRJFROG-release-https\://tr1.jfrog.io/tr1/libs-release/.lastUpdated=1681915364810
+https\://repo.maven.apache.org/maven2/.lastUpdated=1681915368704
+https\://tr1.jfrog.io/tr1/libs-release/.error=Could not transfer artifact net.jodah\:failsafe\:jar\:2.4.4 from/to TRJFROG-release (https\://tr1.jfrog.io/tr1/libs-release)\: Access denied to https\://tr1.jfrog.io/tr1/libs-release/net/jodah/failsafe/2.4.4/failsafe-2.4.4.jar. Error code 401, 

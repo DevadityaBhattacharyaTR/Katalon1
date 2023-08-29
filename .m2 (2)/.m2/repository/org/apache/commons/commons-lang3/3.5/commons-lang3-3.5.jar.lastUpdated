@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 24 13:50:12 IST 2021
+@default-TRJFROG-release-https\://tr1.jfrog.io/tr1/libs-release/.lastUpdated=1637742005548
+https\://repo.maven.apache.org/maven2/.lastUpdated=1637742012200
+https\://tr1.jfrog.io/tr1/libs-release/.error=Could not transfer artifact org.apache.commons\:commons-lang3\:jar\:3.5 from/to TRJFROG-release (https\://tr1.jfrog.io/tr1/libs-release)\: Access denied to https\://tr1.jfrog.io/tr1/libs-release/org/apache/commons/commons-lang3/3.5/commons-lang3-3.5.jar. Error code 401, Unauthorized

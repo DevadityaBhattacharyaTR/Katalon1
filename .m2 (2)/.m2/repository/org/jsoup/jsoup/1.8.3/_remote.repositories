@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon May 04 15:16:55 IST 2020
+jsoup-1.8.3.jar>central=
+jsoup-1.8.3.pom>central=
+jsoup-1.8.3.pom>atlassian-public=
+jsoup-1.8.3-sources.jar>atlassian-public=
+jsoup-1.8.3.jar>atlassian-public=

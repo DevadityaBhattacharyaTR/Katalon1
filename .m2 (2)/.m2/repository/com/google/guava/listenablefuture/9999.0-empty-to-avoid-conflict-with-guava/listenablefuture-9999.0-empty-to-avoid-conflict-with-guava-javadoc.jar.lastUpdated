@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 19 14:42:51 GMT 2023
+@default-TRJFROG-release-https\://tr1.jfrog.io/tr1/libs-release/.lastUpdated=1681915371804
+https\://repo.maven.apache.org/maven2/.lastUpdated=1680694657961
+https\://tr1.jfrog.io/tr1/libs-release/.error=Could not transfer artifact com.google.guava\:listenablefuture\:jar\:javadoc\:9999.0-empty-to-avoid-conflict-with-guava from/to TRJFROG-release (https\://tr1.jfrog.io/tr1/libs-release)\: Access denied to https\://tr1.jfrog.io/tr1/libs-release/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava-javadoc.jar. Error code 401, 
+https\://repo.maven.apache.org/maven2/.error=

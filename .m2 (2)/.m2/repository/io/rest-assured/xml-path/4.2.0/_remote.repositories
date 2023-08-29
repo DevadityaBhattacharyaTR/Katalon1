@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Sep 10 16:29:04 IST 2020
+xml-path-4.2.0-sources.jar>atlassian-public=
+xml-path-4.2.0.jar>atlassian-public=
+xml-path-4.2.0.pom>atlassian-public=

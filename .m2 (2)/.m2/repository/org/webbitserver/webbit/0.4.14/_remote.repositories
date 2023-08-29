@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Feb 09 11:13:18 IST 2022
+webbit-0.4.14.jar>BAMS.public.maven.global=
+webbit-0.4.14-sources.jar>BAMS.public.maven.global=
+webbit-0.4.14.pom>atlassian-public=
+webbit-0.4.14.pom>BAMS.public.maven.global=
+webbit-0.4.14.pom>central=

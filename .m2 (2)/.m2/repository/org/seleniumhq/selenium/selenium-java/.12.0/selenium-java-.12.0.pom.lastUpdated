@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Apr 20 06:07:33 GMT 2023
+@default-TRJFROG-release-https\://tr1.jfrog.io/tr1/libs-release/.lastUpdated=1681970852702
+https\://repo.maven.apache.org/maven2/.lastUpdated=1681970853469
+https\://tr1.jfrog.io/tr1/libs-release/.error=Could not transfer artifact org.seleniumhq.selenium\:selenium-java\:pom\:.12.0 from/to TRJFROG-release (https\://tr1.jfrog.io/tr1/libs-release)\: Access denied to https\://tr1.jfrog.io/tr1/libs-release/org/seleniumhq/selenium/selenium-java/.12.0/selenium-java-.12.0.pom. Error code 401, 
+https\://repo.maven.apache.org/maven2/.error=

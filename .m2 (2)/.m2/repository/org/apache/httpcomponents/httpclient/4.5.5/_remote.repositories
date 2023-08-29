@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 24 13:49:46 IST 2021
+httpclient-4.5.5.pom>BAMS.public.maven.global=
+httpclient-4.5.5.pom>atlassian-public=
+httpclient-4.5.5.jar>atlassian-public=
+httpclient-4.5.5.jar>BAMS.public.maven.global=
+httpclient-4.5.5-sources.jar>atlassian-public=
+httpclient-4.5.5.pom>central=

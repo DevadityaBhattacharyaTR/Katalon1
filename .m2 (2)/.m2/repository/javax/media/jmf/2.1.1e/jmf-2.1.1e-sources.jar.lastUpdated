@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Oct 07 18:05:33 IST 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1602074133429
+https\://bams-aws.refinitiv.com/artifactory/public.maven.global/.error=Could not transfer artifact javax.media\:jmf\:jar\:sources\:2.1.1e from/to BAMS.public.maven.global (https\://bams-aws.refinitiv.com/artifactory/public.maven.global)\: Access denied to https\://bams-aws.refinitiv.com/artifactory/public.maven.global/javax/media/jmf/2.1.1e/jmf-2.1.1e-sources.jar. Error code 403, 
+38c20064d863858af4962038d59859896f92f238@default-BAMS.public.maven.global-https\://bams-aws.refinitiv.com/artifactory/public.maven.global/.lastUpdated=1602074133261
+https\://repo.maven.apache.org/maven2/.error=

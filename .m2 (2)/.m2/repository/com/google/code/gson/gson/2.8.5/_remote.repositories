@@ -1,0 +1,6 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 24 13:50:04 IST 2021
+gson-2.8.5-sources.jar>atlassian-public=
+gson-2.8.5.jar>atlassian-public=
+gson-2.8.5.pom>atlassian-public=
+gson-2.8.5.pom>central=

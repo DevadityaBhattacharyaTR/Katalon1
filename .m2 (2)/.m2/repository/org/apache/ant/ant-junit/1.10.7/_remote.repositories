@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Aug 29 00:21:21 IST 2020
+ant-junit-1.10.7-sources.jar>atlassian-public=
+ant-junit-1.10.7.pom>atlassian-public=
+ant-junit-1.10.7.jar>atlassian-public=

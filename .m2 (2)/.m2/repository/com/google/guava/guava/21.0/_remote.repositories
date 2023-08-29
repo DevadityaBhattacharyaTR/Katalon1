@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 24 13:50:12 IST 2021
+guava-21.0.pom>atlassian-public=
+guava-21.0-sources.jar>central=
+guava-21.0.jar>central=
+guava-21.0.pom>central=
+guava-21.0.jar>atlassian-public=
+guava-21.0-sources.jar>atlassian-public=

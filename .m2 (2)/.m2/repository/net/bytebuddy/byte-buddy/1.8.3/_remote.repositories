@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Nov 14 12:10:19 GMT 2022
+byte-buddy-1.8.3-sources.jar>central=
+byte-buddy-1.8.3.jar>BAMS.public.maven.global=
+byte-buddy-1.8.3.jar>atlassian-public=
+byte-buddy-1.8.3.jar>central=
+byte-buddy-1.8.3.pom>atlassian-public=
+byte-buddy-1.8.3.pom>BAMS.public.maven.global=
+byte-buddy-1.8.3-sources.jar>atlassian-public=
+byte-buddy-1.8.3.pom>central=

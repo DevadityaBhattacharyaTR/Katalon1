@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Aug 28 23:48:42 IST 2020
+https\://repo.maven.apache.org/maven2/.lastUpdated=1598638722490
+https\://bams-aws.refinitiv.com/artifactory/public.maven.global/.error=Could not transfer artifact io.rest-assured\:rest-assured-common\:jar\:sources\:4.3.1 from/to BAMS.public.maven.global (https\://bams-aws.refinitiv.com/artifactory/public.maven.global)\: Access denied to https\://bams-aws.refinitiv.com/artifactory/public.maven.global/io/rest-assured/rest-assured-common/4.3.1/rest-assured-common-4.3.1-sources.jar. Error code 403, 
+38c20064d863858af4962038d59859896f92f238@default-BAMS.public.maven.global-https\://bams-aws.refinitiv.com/artifactory/public.maven.global/.lastUpdated=1598638722254

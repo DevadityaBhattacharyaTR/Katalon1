@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed May 20 16:58:20 IST 2020
+xz-1.5.jar>BAMS.public.maven.global=
+xz-1.5-sources.jar>BAMS.public.maven.global=
+xz-1.5.pom>BAMS.public.maven.global=

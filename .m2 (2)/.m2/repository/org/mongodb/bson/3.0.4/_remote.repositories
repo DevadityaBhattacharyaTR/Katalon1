@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Nov 14 12:09:16 GMT 2022
+bson-3.0.4.jar>atlassian-public=
+bson-3.0.4.jar>central=
+bson-3.0.4.pom>atlassian-public=
+bson-3.0.4-sources.jar>central=
+bson-3.0.4-sources.jar>atlassian-public=
+bson-3.0.4.pom>central=

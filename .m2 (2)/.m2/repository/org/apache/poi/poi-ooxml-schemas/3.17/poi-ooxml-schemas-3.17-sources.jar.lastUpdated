@@ -1,0 +1,12 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 24 13:54:41 IST 2021
+@default-TRJFROG-release-https\://tr1.jfrog.io/tr1/libs-release/.lastUpdated=1637742281502
+https\://repo.maven.apache.org/maven2/.lastUpdated=1594194357217
+https\://bams-aws.refinitiv.com/artifactory/public.maven.global/.lastUpdated=1594194355954
+https\://bams-aws.refinitiv.com/artifactory/public.maven.global/.error=
+https\://m2proxy.atlassian.com/repository/public/.error=Could not transfer artifact org.apache.poi\:poi-ooxml-schemas\:jar\:sources\:3.17 from/to atlassian-public (https\://m2proxy.atlassian.com/repository/public)\: Access denied to https\://m2proxy.atlassian.com/repository/public/org/apache/poi/poi-ooxml-schemas/3.17/poi-ooxml-schemas-3.17-sources.jar. Error code 401, Unauthorized
+https\://tr1.jfrog.io/tr1/libs-release/.error=Could not transfer artifact org.apache.poi\:poi-ooxml-schemas\:jar\:sources\:3.17 from/to TRJFROG-release (https\://tr1.jfrog.io/tr1/libs-release)\: Access denied to https\://tr1.jfrog.io/tr1/libs-release/org/apache/poi/poi-ooxml-schemas/3.17/poi-ooxml-schemas-3.17-sources.jar. Error code 401, Unauthorized
+@default-atlassian-public-https\://m2proxy.atlassian.com/repository/public/.lastUpdated=1594194357000
+https\://repo.maven.apache.org/maven2/.error=
+https\://bams-aws.refinitiv.com/artifactory/release.maven.global/.error=Could not transfer artifact org.apache.poi\:poi-ooxml-schemas\:jar\:sources\:3.17 from/to bams-aws (https\://bams-aws.refinitiv.com/artifactory/release.maven.global/)\: Access denied to https\://bams-aws.refinitiv.com/artifactory/release.maven.global/org/apache/poi/poi-ooxml-schemas/3.17/poi-ooxml-schemas-3.17-sources.jar. Error code 401, Unauthorized
+@default-bams-aws-https\://bams-aws.refinitiv.com/artifactory/release.maven.global/.lastUpdated=1594194356226

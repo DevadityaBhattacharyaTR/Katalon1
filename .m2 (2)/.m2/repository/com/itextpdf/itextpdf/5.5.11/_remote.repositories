@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed May 20 17:00:20 IST 2020
+itextpdf-5.5.11.jar>BAMS.public.maven.global=
+itextpdf-5.5.11.pom>BAMS.public.maven.global=
+itextpdf-5.5.11-sources.jar>BAMS.public.maven.global=

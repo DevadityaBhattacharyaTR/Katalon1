@@ -1,0 +1,14 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Nov 29 20:04:00 IST 2021
+https\://bams-aws.refinitiv.com/artifactory/public.maven.global/.lastUpdated=1589973065041
+https\://m2proxy.atlassian.com/repository/public/.error=Could not transfer artifact org.apache.xmlbeans\:xmlbeans\:jar\:sources\:2.6.0 from/to atlassian-public (https\://m2proxy.atlassian.com/repository/public)\: Access denied to https\://m2proxy.atlassian.com/repository/public/org/apache/xmlbeans/xmlbeans/2.6.0/xmlbeans-2.6.0-sources.jar. Error code 401, Unauthorized
+https\://tr1.jfrog.io/artifactory/maven-release-local/.error=Could not transfer artifact org.apache.xmlbeans\:xmlbeans\:jar\:sources\:2.6.0 from/to TRJFROG-release (https\://tr1.jfrog.io/artifactory/maven-release-local)\: Access denied to https\://tr1.jfrog.io/artifactory/maven-release-local/org/apache/xmlbeans/xmlbeans/2.6.0/xmlbeans-2.6.0-sources.jar. Error code 401, Unauthorized
+https\://tr1.jfrog.io/tr1/libs-release/.error=Could not transfer artifact org.apache.xmlbeans\:xmlbeans\:jar\:sources\:2.6.0 from/to TRJFROG-release (https\://tr1.jfrog.io/tr1/libs-release)\: Access denied to https\://tr1.jfrog.io/tr1/libs-release/org/apache/xmlbeans/xmlbeans/2.6.0/xmlbeans-2.6.0-sources.jar. Error code 401, Unauthorized
+@default-bams-aws-https\://bams-aws.refinitiv.com/artifactory/release.maven.global/.lastUpdated=1589973860771
+@default-TRJFROG-release-https\://tr1.jfrog.io/tr1/libs-release/.lastUpdated=1637742281713
+https\://repo.maven.apache.org/maven2/.lastUpdated=1587383646352
+https\://bams-aws.refinitiv.com/artifactory/public.maven.global/.error=
+@default-atlassian-public-https\://m2proxy.atlassian.com/repository/public/.lastUpdated=1587383646161
+https\://repo.maven.apache.org/maven2/.error=
+https\://bams-aws.refinitiv.com/artifactory/release.maven.global/.error=Could not transfer artifact org.apache.xmlbeans\:xmlbeans\:jar\:sources\:2.6.0 from/to bams-aws (https\://bams-aws.refinitiv.com/artifactory/release.maven.global/)\: Access denied to https\://bams-aws.refinitiv.com/artifactory/release.maven.global/org/apache/xmlbeans/xmlbeans/2.6.0/xmlbeans-2.6.0-sources.jar. Error code 401, Unauthorized
+@default-TRJFROG-release-https\://tr1.jfrog.io/artifactory/maven-release-local/.lastUpdated=1638196440108

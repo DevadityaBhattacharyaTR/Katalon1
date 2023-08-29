@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Nov 14 12:09:01 GMT 2022
+httpcore5-h2-5.0.1.pom>central=
+httpcore5-h2-5.0.1-sources.jar>atlassian-public=
+httpcore5-h2-5.0.1.jar>atlassian-public=
+httpcore5-h2-5.0.1-sources.jar>central=
+httpcore5-h2-5.0.1.pom>atlassian-public=
+httpcore5-h2-5.0.1.jar>central=

@@ -1,0 +1,16 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Nov 29 20:04:00 IST 2021
+https\://bams-aws.refinitiv.com/artifactory/public.maven.global/.lastUpdated=1589973083182
+https\://tr1.jfrog.io/artifactory/release.maven.global/.error=Could not transfer artifact stax\:stax-api\:jar\:javadoc\:1.0.1 from/to tr1-jfrog (https\://tr1.jfrog.io/artifactory/release.maven.global/)\: Access denied to https\://tr1.jfrog.io/artifactory/release.maven.global/stax/stax-api/1.0.1/stax-api-1.0.1-javadoc.jar. Error code 401, Unauthorized
+https\://m2proxy.atlassian.com/repository/public/.error=
+https\://tr1.jfrog.io/artifactory/maven-release-local/.error=Could not transfer artifact stax\:stax-api\:jar\:javadoc\:1.0.1 from/to TRJFROG-release (https\://tr1.jfrog.io/artifactory/maven-release-local)\: Access denied to https\://tr1.jfrog.io/artifactory/maven-release-local/stax/stax-api/1.0.1/stax-api-1.0.1-javadoc.jar. Error code 401, Unauthorized
+https\://m2proxy.atlassian.com/repository/public/.lastUpdated=1587383745406
+@default-tr1-jfrog-https\://tr1.jfrog.io/artifactory/release.maven.global/.lastUpdated=1598683915303
+https\://tr1.jfrog.io/tr1/libs-release/.error=Could not transfer artifact stax\:stax-api\:jar\:javadoc\:1.0.1 from/to TRJFROG-release (https\://tr1.jfrog.io/tr1/libs-release)\: Access denied to https\://tr1.jfrog.io/tr1/libs-release/stax/stax-api/1.0.1/stax-api-1.0.1-javadoc.jar. Error code 401, Unauthorized
+@default-bams-aws-https\://bams-aws.refinitiv.com/artifactory/release.maven.global/.lastUpdated=1589974218165
+@default-TRJFROG-release-https\://tr1.jfrog.io/tr1/libs-release/.lastUpdated=1637742283151
+https\://repo.maven.apache.org/maven2/.lastUpdated=1587383745541
+https\://bams-aws.refinitiv.com/artifactory/public.maven.global/.error=
+https\://repo.maven.apache.org/maven2/.error=
+https\://bams-aws.refinitiv.com/artifactory/release.maven.global/.error=Could not transfer artifact stax\:stax-api\:jar\:javadoc\:1.0.1 from/to bams-aws (https\://bams-aws.refinitiv.com/artifactory/release.maven.global/)\: Access denied to https\://bams-aws.refinitiv.com/artifactory/release.maven.global/stax/stax-api/1.0.1/stax-api-1.0.1-javadoc.jar. Error code 401, Unauthorized
+@default-TRJFROG-release-https\://tr1.jfrog.io/artifactory/maven-release-local/.lastUpdated=1638196440348

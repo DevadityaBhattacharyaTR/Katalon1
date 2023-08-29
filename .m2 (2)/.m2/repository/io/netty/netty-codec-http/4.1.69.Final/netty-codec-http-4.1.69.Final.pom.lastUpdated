@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 19 14:42:36 GMT 2023
+@default-TRJFROG-release-https\://tr1.jfrog.io/tr1/libs-release/.lastUpdated=1681915356178
+https\://repo.maven.apache.org/maven2/.lastUpdated=1681915356245
+https\://tr1.jfrog.io/tr1/libs-release/.error=Could not transfer artifact io.netty\:netty-codec-http\:pom\:4.1.69.Final from/to TRJFROG-release (https\://tr1.jfrog.io/tr1/libs-release)\: Access denied to https\://tr1.jfrog.io/tr1/libs-release/io/netty/netty-codec-http/4.1.69.Final/netty-codec-http-4.1.69.Final.pom. Error code 401, 

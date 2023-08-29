@@ -1,0 +1,12 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 24 13:54:40 IST 2021
+@default-TRJFROG-release-https\://tr1.jfrog.io/tr1/libs-release/.lastUpdated=1637742280519
+https\://repo.maven.apache.org/maven2/.lastUpdated=1594194315886
+https\://bams-aws.refinitiv.com/artifactory/public.maven.global/.lastUpdated=1594194313911
+https\://bams-aws.refinitiv.com/artifactory/public.maven.global/.error=
+https\://m2proxy.atlassian.com/repository/public/.error=Could not transfer artifact com.oracle\:ojdbc6\:jar\:sources\:12.1.0.1-atlassian-hosted from/to atlassian-public (https\://m2proxy.atlassian.com/repository/public)\: Access denied to https\://m2proxy.atlassian.com/repository/public/com/oracle/ojdbc6/12.1.0.1-atlassian-hosted/ojdbc6-12.1.0.1-atlassian-hosted-sources.jar. Error code 401, Unauthorized
+https\://tr1.jfrog.io/tr1/libs-release/.error=Could not transfer artifact com.oracle\:ojdbc6\:jar\:sources\:12.1.0.1-atlassian-hosted from/to TRJFROG-release (https\://tr1.jfrog.io/tr1/libs-release)\: Access denied to https\://tr1.jfrog.io/tr1/libs-release/com/oracle/ojdbc6/12.1.0.1-atlassian-hosted/ojdbc6-12.1.0.1-atlassian-hosted-sources.jar. Error code 401, Unauthorized
+@default-atlassian-public-https\://m2proxy.atlassian.com/repository/public/.lastUpdated=1594194315700
+https\://repo.maven.apache.org/maven2/.error=
+https\://bams-aws.refinitiv.com/artifactory/release.maven.global/.error=Could not transfer artifact com.oracle\:ojdbc6\:jar\:sources\:12.1.0.1-atlassian-hosted from/to bams-aws (https\://bams-aws.refinitiv.com/artifactory/release.maven.global/)\: Access denied to https\://bams-aws.refinitiv.com/artifactory/release.maven.global/com/oracle/ojdbc6/12.1.0.1-atlassian-hosted/ojdbc6-12.1.0.1-atlassian-hosted-sources.jar. Error code 401, Unauthorized
+@default-bams-aws-https\://bams-aws.refinitiv.com/artifactory/release.maven.global/.lastUpdated=1594194314166

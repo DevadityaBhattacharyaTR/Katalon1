@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Nov 29 20:03:56 IST 2021
+https\://tr1.jfrog.io/artifactory/maven-release-local/.error=Could not transfer artifact org.slf4j\:slf4j-api\:jar\:sources\:1.7.30 from/to TRJFROG-release (https\://tr1.jfrog.io/artifactory/maven-release-local)\: Access denied to https\://tr1.jfrog.io/artifactory/maven-release-local/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30-sources.jar. Error code 401, Unauthorized
+https\://m2proxy.atlassian.com/repository/public/.lastUpdated=1638196436171
+@default-TRJFROG-release-https\://tr1.jfrog.io/artifactory/maven-release-local/.lastUpdated=1638196434207

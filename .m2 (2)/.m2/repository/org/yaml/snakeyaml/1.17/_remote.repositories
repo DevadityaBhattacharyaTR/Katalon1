@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Nov 14 12:08:51 GMT 2022
+snakeyaml-1.17.jar>BAMS.public.maven.global=
+snakeyaml-1.17.pom>BAMS.public.maven.global=
+snakeyaml-1.17-sources.jar>BAMS.public.maven.global=
+snakeyaml-1.17.jar>central=
+snakeyaml-1.17-sources.jar>central=
+snakeyaml-1.17.pom>central=

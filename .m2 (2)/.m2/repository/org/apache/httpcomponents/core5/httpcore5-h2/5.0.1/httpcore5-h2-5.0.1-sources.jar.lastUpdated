@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Nov 14 12:09:01 GMT 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1668427741314
+https\://bams-aws.refinitiv.com/artifactory/public.maven.global/.error=Could not transfer artifact org.apache.httpcomponents.core5\:httpcore5-h2\:jar\:sources\:5.0.1 from/to BAMS.public.maven.global (https\://bams-aws.refinitiv.com/artifactory/public.maven.global)\: Access denied to https\://bams-aws.refinitiv.com/artifactory/public.maven.global/org/apache/httpcomponents/core5/httpcore5-h2/5.0.1/httpcore5-h2-5.0.1-sources.jar. Error code 403, 
+https\://tr1.jfrog.io/tr1/libs-release/.lastUpdated=1668427741162
+https\://m2proxy.atlassian.com/repository/public/.lastUpdated=1598683898903
+38c20064d863858af4962038d59859896f92f238@default-BAMS.public.maven.global-https\://bams-aws.refinitiv.com/artifactory/public.maven.global/.lastUpdated=1598683895925
+https\://tr1.jfrog.io/tr1/libs-release/.error=

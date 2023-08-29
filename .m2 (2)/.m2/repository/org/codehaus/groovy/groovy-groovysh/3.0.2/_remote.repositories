@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Aug 29 00:21:43 IST 2020
+groovy-groovysh-3.0.2.jar>atlassian-public=
+groovy-groovysh-3.0.2.pom>atlassian-public=
+groovy-groovysh-3.0.2-sources.jar>atlassian-public=

@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Oct 07 18:04:42 IST 2020
+http\://maven2.javacv.googlecode.com/git/.lastUpdated=1602074081826
+http\://maven2.javacv.googlecode.com/git/.error=
+http\://maven2.javacpp.googlecode.com/git/.lastUpdated=1602074082513
+https\://repo.maven.apache.org/maven2/.lastUpdated=1602074080981
+https\://bams-aws.refinitiv.com/artifactory/public.maven.global/.error=Could not transfer artifact com.googlecode.javacpp\:javacpp\:pom\:0.1 from/to BAMS.public.maven.global (https\://bams-aws.refinitiv.com/artifactory/public.maven.global)\: Access denied to https\://bams-aws.refinitiv.com/artifactory/public.maven.global/com/googlecode/javacpp/javacpp/0.1/javacpp-0.1.pom. Error code 403, 
+http\://maven2.javacpp.googlecode.com/git/.error=
+38c20064d863858af4962038d59859896f92f238@default-BAMS.public.maven.global-https\://bams-aws.refinitiv.com/artifactory/public.maven.global/.lastUpdated=1602074080956
+https\://repo.maven.apache.org/maven2/.error=

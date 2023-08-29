@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Sep 10 16:29:01 IST 2020
+groovy-json-2.5.8.jar>atlassian-public=
+groovy-json-2.5.8-sources.jar>atlassian-public=
+groovy-json-2.5.8.pom>atlassian-public=

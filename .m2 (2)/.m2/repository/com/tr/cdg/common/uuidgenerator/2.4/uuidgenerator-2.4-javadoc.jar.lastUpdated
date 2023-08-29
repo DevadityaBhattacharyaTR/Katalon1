@@ -1,0 +1,12 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Aug 29 12:21:56 IST 2020
+https\://bams-aws.refinitiv.com/artifactory/public.maven.global/.lastUpdated=1589974307308
+https\://tr1.jfrog.io/artifactory/release.maven.global/.error=Could not transfer artifact com.tr.cdg.common\:uuidgenerator\:jar\:javadoc\:2.4 from/to tr1-jfrog (https\://tr1.jfrog.io/artifactory/release.maven.global/)\: Access denied to https\://tr1.jfrog.io/artifactory/release.maven.global/com/tr/cdg/common/uuidgenerator/2.4/uuidgenerator-2.4-javadoc.jar. Error code 401, Unauthorized
+@default-bams-aws-https\://bams-aws.refinitiv.com/artifactory/release.maven.global/.lastUpdated=1589974308898
+@default-tr1-jfrog-https\://tr1.jfrog.io/artifactory/release.maven.global/.lastUpdated=1598683916599
+https\://m2proxy.atlassian.com/repository/public/.lastUpdated=1589974308663
+https\://bams-aws.refinitiv.com/artifactory/public.maven.global/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1589974309063
+https\://repo.maven.apache.org/maven2/.error=
+https\://m2proxy.atlassian.com/repository/public/.error=
+https\://bams-aws.refinitiv.com/artifactory/release.maven.global/.error=Could not transfer artifact com.tr.cdg.common\:uuidgenerator\:jar\:javadoc\:2.4 from/to bams-aws (https\://bams-aws.refinitiv.com/artifactory/release.maven.global/)\: Access denied to https\://bams-aws.refinitiv.com/artifactory/release.maven.global/com/tr/cdg/common/uuidgenerator/2.4/uuidgenerator-2.4-javadoc.jar. Error code 401, Unauthorized

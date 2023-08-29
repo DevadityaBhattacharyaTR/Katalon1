@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue Dec 07 19:19:12 IST 2021
+commons-codec-1.6.jar>atlassian-public=
+commons-codec-1.6.pom>central=
+commons-codec-1.6.pom>atlassian-public=
+commons-codec-1.6-sources.jar>BAMS.public.maven.global=
+commons-codec-1.6.jar>BAMS.public.maven.global=

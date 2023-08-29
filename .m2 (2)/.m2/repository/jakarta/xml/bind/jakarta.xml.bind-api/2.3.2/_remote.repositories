@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Thu Sep 10 16:29:06 IST 2020
+jakarta.xml.bind-api-2.3.2-sources.jar>atlassian-public=
+jakarta.xml.bind-api-2.3.2.jar>atlassian-public=
+jakarta.xml.bind-api-2.3.2.pom>atlassian-public=

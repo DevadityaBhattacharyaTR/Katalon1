@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Tue May 26 13:11:29 IST 2020
+javax.mail-1.6.2.pom>BAMS.public.maven.global=
+javax.mail-1.6.2-sources.jar>BAMS.public.maven.global=
+javax.mail-1.6.2.jar>BAMS.public.maven.global=

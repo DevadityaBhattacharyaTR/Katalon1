@@ -1,0 +1,8 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Nov 14 12:09:01 GMT 2022
+jarchivelib-1.0.0.jar>central=
+jarchivelib-1.0.0-sources.jar>central=
+jarchivelib-1.0.0-sources.jar>atlassian-public=
+jarchivelib-1.0.0.pom>atlassian-public=
+jarchivelib-1.0.0.jar>atlassian-public=
+jarchivelib-1.0.0.pom>central=

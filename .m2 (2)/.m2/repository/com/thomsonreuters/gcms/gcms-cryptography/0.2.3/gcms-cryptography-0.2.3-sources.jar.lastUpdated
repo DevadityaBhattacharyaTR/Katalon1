@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Jan 30 06:47:55 GMT 2023
+@default-TRJFROG-release-https\://tr1.jfrog.io/tr1/libs-release/.lastUpdated=1668427320037
+https\://repo.maven.apache.org/maven2/.lastUpdated=1668411690361
+https\://tr1.jfrog.io/artifactory/maven-release-local/.error=Could not transfer artifact com.thomsonreuters.gcms\:gcms-cryptography\:jar\:sources\:0.2.3 from/to TRJFROG-release (https\://tr1.jfrog.io/artifactory/maven-release-local)\: Access denied to https\://tr1.jfrog.io/artifactory/maven-release-local/com/thomsonreuters/gcms/gcms-cryptography/0.2.3/gcms-cryptography-0.2.3-sources.jar. Error code 401, Unauthorized
+https\://m2proxy.atlassian.com/repository/public/.error=
+https\://m2proxy.atlassian.com/repository/public/.lastUpdated=1675061275953
+https\://tr1.jfrog.io/tr1/libs-release/.error=Could not transfer artifact com.thomsonreuters.gcms\:gcms-cryptography\:jar\:sources\:0.2.3 from/to TRJFROG-release (https\://tr1.jfrog.io/tr1/libs-release)\: Access denied to https\://tr1.jfrog.io/tr1/libs-release/com/thomsonreuters/gcms/gcms-cryptography/0.2.3/gcms-cryptography-0.2.3-sources.jar. Error code 401, Unauthorized
+https\://repo.maven.apache.org/maven2/.error=
+@default-TRJFROG-release-https\://tr1.jfrog.io/artifactory/maven-release-local/.lastUpdated=1675061274983

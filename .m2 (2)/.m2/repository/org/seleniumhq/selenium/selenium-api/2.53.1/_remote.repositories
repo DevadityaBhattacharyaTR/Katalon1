@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon May 04 15:17:05 IST 2020
+selenium-api-2.53.1.jar>atlassian-public=
+selenium-api-2.53.1-sources.jar>central=
+selenium-api-2.53.1.pom>central=
+selenium-api-2.53.1.jar>central=
+selenium-api-2.53.1.pom>atlassian-public=

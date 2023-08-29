@@ -1,0 +1,9 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon Nov 14 12:08:57 GMT 2022
+junit-4.10-sources.jar>BAMS.public.maven.global=
+junit-4.10-sources.jar>central=
+junit-4.10.jar>BAMS.public.maven.global=
+junit-4.10.pom>atlassian-public=
+junit-4.10.pom>BAMS.public.maven.global=
+junit-4.10.jar>central=
+junit-4.10.pom>central=

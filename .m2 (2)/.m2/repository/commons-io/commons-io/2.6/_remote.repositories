@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Aug 28 23:42:41 IST 2020
+commons-io-2.6.pom>central=
+commons-io-2.6.jar>atlassian-public=
+commons-io-2.6.jar>central=
+commons-io-2.6.pom>atlassian-public=
+commons-io-2.6-sources.jar>atlassian-public=

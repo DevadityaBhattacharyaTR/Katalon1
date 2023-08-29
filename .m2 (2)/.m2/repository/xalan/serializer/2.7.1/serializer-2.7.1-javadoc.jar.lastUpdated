@@ -1,0 +1,12 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Aug 29 12:21:55 IST 2020
+https\://bams-aws.refinitiv.com/artifactory/public.maven.global/.lastUpdated=1589974276941
+https\://tr1.jfrog.io/artifactory/release.maven.global/.error=Could not transfer artifact xalan\:serializer\:jar\:javadoc\:2.7.1 from/to tr1-jfrog (https\://tr1.jfrog.io/artifactory/release.maven.global/)\: Access denied to https\://tr1.jfrog.io/artifactory/release.maven.global/xalan/serializer/2.7.1/serializer-2.7.1-javadoc.jar. Error code 401, Unauthorized
+@default-bams-aws-https\://bams-aws.refinitiv.com/artifactory/release.maven.global/.lastUpdated=1589974278025
+@default-tr1-jfrog-https\://tr1.jfrog.io/artifactory/release.maven.global/.lastUpdated=1598683915519
+https\://m2proxy.atlassian.com/repository/public/.lastUpdated=1589974277790
+https\://bams-aws.refinitiv.com/artifactory/public.maven.global/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1589974278163
+https\://repo.maven.apache.org/maven2/.error=
+https\://m2proxy.atlassian.com/repository/public/.error=
+https\://bams-aws.refinitiv.com/artifactory/release.maven.global/.error=Could not transfer artifact xalan\:serializer\:jar\:javadoc\:2.7.1 from/to bams-aws (https\://bams-aws.refinitiv.com/artifactory/release.maven.global/)\: Access denied to https\://bams-aws.refinitiv.com/artifactory/release.maven.global/xalan/serializer/2.7.1/serializer-2.7.1-javadoc.jar. Error code 401, Unauthorized

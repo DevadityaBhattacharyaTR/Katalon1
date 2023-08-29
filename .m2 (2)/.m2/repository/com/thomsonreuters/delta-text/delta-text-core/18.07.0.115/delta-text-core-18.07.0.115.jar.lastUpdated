@@ -1,0 +1,10 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Nov 16 07:29:15 GMT 2022
+https\://repo.maven.apache.org/maven2/.lastUpdated=1668583755239
+https\://tr1.jfrog.io/tr1/libs-release/.lastUpdated=1637742005426
+https\://tr1.jfrog.io/artifactory/maven-release-local/.error=
+https\://m2proxy.atlassian.com/repository/public/.error=
+https\://tr1.jfrog.io/artifactory/maven-release-local/.lastUpdated=1668583704206
+https\://m2proxy.atlassian.com/repository/public/.lastUpdated=1668583705710
+https\://tr1.jfrog.io/tr1/libs-release/.error=
+https\://repo.maven.apache.org/maven2/.error=

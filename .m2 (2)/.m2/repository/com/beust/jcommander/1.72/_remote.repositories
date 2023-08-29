@@ -1,0 +1,7 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Fri Aug 28 23:42:41 IST 2020
+jcommander-1.72.jar>atlassian-public=
+jcommander-1.72.jar>central=
+jcommander-1.72.pom>atlassian-public=
+jcommander-1.72.pom>central=
+jcommander-1.72-sources.jar>atlassian-public=

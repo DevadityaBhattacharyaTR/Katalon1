@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Mon May 04 15:17:57 IST 2020
+httpmime-4.1.2.pom>atlassian-public=
+httpmime-4.1.2.jar>atlassian-public=
+httpmime-4.1.2-sources.jar>atlassian-public=

@@ -1,0 +1,12 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Sat Aug 29 12:21:51 IST 2020
+https\://bams-aws.refinitiv.com/artifactory/public.maven.global/.lastUpdated=1589974138984
+https\://tr1.jfrog.io/artifactory/release.maven.global/.error=Could not transfer artifact commons-logging\:commons-logging-api\:jar\:sources\:1.1 from/to tr1-jfrog (https\://tr1.jfrog.io/artifactory/release.maven.global/)\: Access denied to https\://tr1.jfrog.io/artifactory/release.maven.global/commons-logging/commons-logging-api/1.1/commons-logging-api-1.1-sources.jar. Error code 401, Unauthorized
+@default-bams-aws-https\://bams-aws.refinitiv.com/artifactory/release.maven.global/.lastUpdated=1589974140412
+@default-tr1-jfrog-https\://tr1.jfrog.io/artifactory/release.maven.global/.lastUpdated=1598683911086
+@default-atlassian-public-https\://m2proxy.atlassian.com/repository/public/.lastUpdated=1589974140166
+https\://bams-aws.refinitiv.com/artifactory/public.maven.global/.error=
+https\://repo.maven.apache.org/maven2/.lastUpdated=1589974140633
+https\://repo.maven.apache.org/maven2/.error=
+https\://m2proxy.atlassian.com/repository/public/.error=Could not transfer artifact commons-logging\:commons-logging-api\:jar\:sources\:1.1 from/to atlassian-public (https\://m2proxy.atlassian.com/repository/public)\: Access denied to https\://m2proxy.atlassian.com/repository/public/commons-logging/commons-logging-api/1.1/commons-logging-api-1.1-sources.jar. Error code 401, Unauthorized
+https\://bams-aws.refinitiv.com/artifactory/release.maven.global/.error=Could not transfer artifact commons-logging\:commons-logging-api\:jar\:sources\:1.1 from/to bams-aws (https\://bams-aws.refinitiv.com/artifactory/release.maven.global/)\: Access denied to https\://bams-aws.refinitiv.com/artifactory/release.maven.global/commons-logging/commons-logging-api/1.1/commons-logging-api-1.1-sources.jar. Error code 401, Unauthorized

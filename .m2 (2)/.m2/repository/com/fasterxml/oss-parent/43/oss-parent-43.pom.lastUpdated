@@ -1,0 +1,5 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Apr 19 14:42:41 GMT 2023
+@default-TRJFROG-release-https\://tr1.jfrog.io/tr1/libs-release/.lastUpdated=1681915361399
+https\://repo.maven.apache.org/maven2/.lastUpdated=1681915361585
+https\://tr1.jfrog.io/tr1/libs-release/.error=Could not transfer artifact com.fasterxml\:oss-parent\:pom\:43 from/to TRJFROG-release (https\://tr1.jfrog.io/tr1/libs-release)\: Access denied to https\://tr1.jfrog.io/tr1/libs-release/com/fasterxml/oss-parent/43/oss-parent-43.pom. Error code 401, 
