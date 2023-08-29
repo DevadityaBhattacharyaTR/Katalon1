@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Unique Test Data</name>
+   <tag></tag>
+   <elementGuidId>dd589035-99ba-42ae-8bb5-9e889402dc4f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//ul[@id='results']/li[10]/div/a/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(10) > div.result_line > a > div.firm_col</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>a8e06220-0350-4949-9940-1f17d02eba1c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>firm_col</value>
+      <webElementGuid>b92cb92c-d057-4cf6-a14e-c5dbfa159d94</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Unique Test Data</value>
+      <webElementGuid>cba934e5-d3b6-48db-a8bf-c04995e1832a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;results&quot;)/li[10]/div[@class=&quot;result_line&quot;]/a[1]/div[@class=&quot;firm_col&quot;]</value>
+      <webElementGuid>ecb55a7c-cc98-4c29-be48-57a34688e79e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//ul[@id='results']/li[10]/div/a/div[2]</value>
+      <webElementGuid>b1c9c87e-ff99-462d-9f35-b76a000c63b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Michelle Phillips'])[8]/following::div[5]</value>
+      <webElementGuid>513341aa-9e83-466f-b479-8d99b7bb7e40</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Automation_MSW'])[1]/following::div[7]</value>
+      <webElementGuid>c41536bd-84b1-441d-b396-6cc082119e2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Michelle Phillips'])[9]/preceding::div[2]</value>
+      <webElementGuid>d09493cb-62e8-4ebb-b5ab-fc92046b0a81</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Domain name'])[1]/preceding::div[6]</value>
+      <webElementGuid>3ba083f0-d2ad-4b17-b134-bd34ac01a108</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Unique Test Data']/parent::*</value>
+      <webElementGuid>7917910b-6157-4d21-939a-59d39264160a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[10]/div/a/div[2]</value>
+      <webElementGuid>25e49b38-15f7-4067-b251-5d0858a18e46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Unique Test Data' or . = 'Unique Test Data')]</value>
+      <webElementGuid>2c96cd1e-9ec8-416a-8120-ed33587f3115</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

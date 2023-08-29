@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_2022 Tax Rates</name>
+   <tag></tag>
+   <elementGuidId>297880af-8e7d-4f19-97f2-2b97e8f069ac</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//h4[@id='taxRates2022']/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#taxRates2022 > a.ratesLink</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>ab23f31a-d15f-4438-9b01-00482d878951</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ratesLink</value>
+      <webElementGuid>9cdaeccd-b928-4133-a296-8e1a5b908131</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>widgets/page_handlers/taxratespages/taxRates2022.html</value>
+      <webElementGuid>9a65c270-4847-47ee-bb50-313de24d604a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>2022 Tax Rates</value>
+      <webElementGuid>6b7c880a-3254-4beb-99c7-0233e8b4f688</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;taxRates2022&quot;)/a[@class=&quot;ratesLink&quot;]</value>
+      <webElementGuid>0c2b9a05-f637-444e-9fdb-81a2a7ef326f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//h4[@id='taxRates2022']/a</value>
+      <webElementGuid>342e252b-861b-49a8-8114-59cba5245793</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'2022 Tax Rates')]</value>
+      <webElementGuid>61f315ca-58d8-4658-b4c2-07652a6b1b89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tax Rates'])[2]/following::a[2]</value>
+      <webElementGuid>eaa52b39-fba2-4e30-8476-73d3ce9b4976</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Taxes'])[1]/following::a[3]</value>
+      <webElementGuid>5cba81fc-8e78-4cff-99fe-98aa958e7b3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='If taxable income is over'])[1]/preceding::a[4]</value>
+      <webElementGuid>b3ca3f93-9309-4fd2-91cf-ee1e900e2940</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='But not over'])[1]/preceding::a[4]</value>
+      <webElementGuid>77aba8c4-27e6-4f71-9bad-558ac4b3b0a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='2022 Tax Rates']/parent::*</value>
+      <webElementGuid>855e126f-859a-4c70-974b-8ade67509bfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'widgets/page_handlers/taxratespages/taxRates2022.html')]</value>
+      <webElementGuid>9e6fffb1-403f-4832-9863-93fd768139b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/h4/a</value>
+      <webElementGuid>97e5416d-0f24-4e0a-8563-6f85a1b616ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'widgets/page_handlers/taxratespages/taxRates2022.html' and (text() = '2022 Tax Rates' or . = '2022 Tax Rates')]</value>
+      <webElementGuid>6d7280ef-b40d-4d8f-8b3b-02aafa78d189</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

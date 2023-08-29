@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Manage Site Wizard</name>
+   <tag></tag>
+   <elementGuidId>49bd2c32-16c7-4f0d-9b45-1e4951aee004</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='siteinfo']/div[2]/p[2]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p:nth-of-type(2) > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>690b574e-420f-48f6-b088-90380ed16102</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/emoadmin/sw/index.jsp?actingAs=2022-11-11-4-12@webbuilder.com&amp;editingSiteId=14905</value>
+      <webElementGuid>26f2952a-ff95-4139-bc88-faa804510a08</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>target</name>
+      <type>Main</type>
+      <value>_blank</value>
+      <webElementGuid>703baf0b-58f3-4219-bb83-533ae0feafe6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Manage Site Wizard</value>
+      <webElementGuid>0e9824b7-8a40-4804-812d-b4b704a615d3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;siteinfo&quot;)/div[@class=&quot;two-thirds&quot;]/p[2]/a[1]</value>
+      <webElementGuid>5aa32dd5-a6af-4aa0-a7f7-36a8e15c8cce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='siteinfo']/div[2]/p[2]/a</value>
+      <webElementGuid>63a8e08b-dec7-4816-9f79-4628c3f3698b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Manage Site Wizard')]</value>
+      <webElementGuid>7e0528c4-cfe0-4901-b529-fd502b5aa608</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Site Wizard Version:'])[1]/following::a[1]</value>
+      <webElementGuid>19c651b0-9eb3-4c01-a2e5-5034e25bc48f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Account Manager:'])[1]/following::a[1]</value>
+      <webElementGuid>381805d9-29e4-4916-b079-dd42fd445e24</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='User Name:'])[1]/preceding::a[1]</value>
+      <webElementGuid>4543187f-f7ff-46e2-9aaf-046106907986</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Password:'])[1]/preceding::a[1]</value>
+      <webElementGuid>3874b321-e1d3-4323-a85f-34b729188bba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Manage Site Wizard']/parent::*</value>
+      <webElementGuid>2e4cd6a0-1e02-4e1b-bbfa-49121e382046</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/emoadmin/sw/index.jsp?actingAs=2022-11-11-4-12@webbuilder.com&amp;editingSiteId=14905')]</value>
+      <webElementGuid>e0664a9a-3d63-4e39-b25e-0c1724765af0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p[2]/a</value>
+      <webElementGuid>c8a6db5c-de07-4d44-bc86-9c5432216c22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/emoadmin/sw/index.jsp?actingAs=2022-11-11-4-12@webbuilder.com&amp;editingSiteId=14905' and (text() = 'Manage Site Wizard' or . = 'Manage Site Wizard')]</value>
+      <webElementGuid>1ffc65c6-ba79-48a1-8179-cfff6bfea064</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
