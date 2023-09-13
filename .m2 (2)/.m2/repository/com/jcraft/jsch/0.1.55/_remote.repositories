@@ -1,8 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Nov 14 12:09:04 GMT 2022
-jsch-0.1.55.jar>atlassian-public=
-jsch-0.1.55-sources.jar>central=
-jsch-0.1.55-sources.jar>atlassian-public=
-jsch-0.1.55.jar>central=
-jsch-0.1.55.pom>atlassian-public=
-jsch-0.1.55.pom>central=

@@ -1,6 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed May 20 17:00:29 IST 2020
-commons-cli-1.2-sources.jar>BAMS.public.maven.global=
-commons-cli-1.2.jar>BAMS.public.maven.global=
-commons-cli-1.2.pom>central=
-commons-cli-1.2.pom>atlassian-public=

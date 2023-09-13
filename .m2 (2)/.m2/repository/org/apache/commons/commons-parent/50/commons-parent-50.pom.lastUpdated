@@ -1,6 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Feb 09 11:13:19 IST 2022
-https\://repo.maven.apache.org/maven2/.lastUpdated=1644385399103
-https\://bams-aws.refinitiv.com/artifactory/public.maven.global/.error=Could not transfer artifact org.apache.commons\:commons-parent\:pom\:50 from/to BAMS.public.maven.global (https\://bams-aws.refinitiv.com/artifactory/public.maven.global)\: Access denied to https\://bams-aws.refinitiv.com/artifactory/public.maven.global/org/apache/commons/commons-parent/50/commons-parent-50.pom. Error code 403, 
-https\://m2proxy.atlassian.com/repository/public/.lastUpdated=1598683854488
-38c20064d863858af4962038d59859896f92f238@default-BAMS.public.maven.global-https\://bams-aws.refinitiv.com/artifactory/public.maven.global/.lastUpdated=1598683853489

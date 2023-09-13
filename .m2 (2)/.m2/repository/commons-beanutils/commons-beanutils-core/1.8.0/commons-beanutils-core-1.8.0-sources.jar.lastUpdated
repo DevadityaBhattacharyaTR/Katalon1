@@ -1,9 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Nov 14 12:09:14 GMT 2022
-https\://repo.maven.apache.org/maven2/.lastUpdated=1587383658106
-https\://bams-aws.refinitiv.com/artifactory/public.maven.global/.lastUpdated=1589973073128
-https\://m2proxy.atlassian.com/repository/public/.error=Could not transfer artifact commons-beanutils\:commons-beanutils-core\:jar\:sources\:1.8.0 from/to atlassian-public (https\://m2proxy.atlassian.com/repository/public)\: Access denied to https\://m2proxy.atlassian.com/repository/public/commons-beanutils/commons-beanutils-core/1.8.0/commons-beanutils-core-1.8.0-sources.jar. Error code 401, Unauthorized
-https\://tr1.jfrog.io/tr1/libs-release/.lastUpdated=1668427754145
-https\://tr1.jfrog.io/tr1/libs-release/.error=
-@default-atlassian-public-https\://m2proxy.atlassian.com/repository/public/.lastUpdated=1587383657960
-https\://repo.maven.apache.org/maven2/.error=

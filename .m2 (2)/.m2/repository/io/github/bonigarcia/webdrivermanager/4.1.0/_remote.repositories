@@ -1,8 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Nov 14 12:08:58 GMT 2022
-webdrivermanager-4.1.0.jar>atlassian-public=
-webdrivermanager-4.1.0.pom>central=
-webdrivermanager-4.1.0.jar>central=
-webdrivermanager-4.1.0-sources.jar>atlassian-public=
-webdrivermanager-4.1.0.pom>atlassian-public=
-webdrivermanager-4.1.0-sources.jar>central=

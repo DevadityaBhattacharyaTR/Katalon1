@@ -1,8 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Nov 14 12:09:21 GMT 2022
-curvesapi-1.04.jar>atlassian-public=
-curvesapi-1.04-sources.jar>atlassian-public=
-curvesapi-1.04.pom>atlassian-public=
-curvesapi-1.04.jar>central=
-curvesapi-1.04.pom>central=
-curvesapi-1.04-sources.jar>central=

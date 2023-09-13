@@ -1,7 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Thu Sep 10 16:28:52 IST 2020
-@default-bams-aws-https\://bams-aws.refinitiv.com/artifactory/release.maven.global/.lastUpdated=1599735531864
-https\://m2proxy.atlassian.com/repository/public/.lastUpdated=1599735532294
-https\://bams-aws.refinitiv.com/artifactory/public.maven.global/.error=Could not transfer artifact io.rest-assured\:json-path\:jar\:sources\:4.2.0 from/to BAMS.public.maven.global (https\://bams-aws.refinitiv.com/artifactory/public.maven.global)\: Access denied to https\://bams-aws.refinitiv.com/artifactory/public.maven.global/io/rest-assured/json-path/4.2.0/json-path-4.2.0-sources.jar. Error code 403, 
-https\://bams-aws.refinitiv.com/artifactory/release.maven.global/.error=Could not transfer artifact io.rest-assured\:json-path\:jar\:sources\:4.2.0 from/to bams-aws (https\://bams-aws.refinitiv.com/artifactory/release.maven.global/)\: Access denied to https\://bams-aws.refinitiv.com/artifactory/release.maven.global/io/rest-assured/json-path/4.2.0/json-path-4.2.0-sources.jar. Error code 403, 
-38c20064d863858af4962038d59859896f92f238@default-BAMS.public.maven.global-https\://bams-aws.refinitiv.com/artifactory/public.maven.global/.lastUpdated=1599735531607

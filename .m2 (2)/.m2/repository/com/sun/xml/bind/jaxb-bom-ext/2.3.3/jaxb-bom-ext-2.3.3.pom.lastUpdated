@@ -1,5 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Fri Aug 28 23:42:33 IST 2020
-https\://repo.maven.apache.org/maven2/.lastUpdated=1598638353242
-https\://bams-aws.refinitiv.com/artifactory/public.maven.global/.error=Could not transfer artifact com.sun.xml.bind\:jaxb-bom-ext\:pom\:2.3.3 from/to BAMS.public.maven.global (https\://bams-aws.refinitiv.com/artifactory/public.maven.global)\: Access denied to https\://bams-aws.refinitiv.com/artifactory/public.maven.global/com/sun/xml/bind/jaxb-bom-ext/2.3.3/jaxb-bom-ext-2.3.3.pom. Error code 403, 
-38c20064d863858af4962038d59859896f92f238@default-BAMS.public.maven.global-https\://bams-aws.refinitiv.com/artifactory/public.maven.global/.lastUpdated=1598638353156

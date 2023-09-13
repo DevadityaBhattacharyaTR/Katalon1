@@ -1,9 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Nov 14 12:09:15 GMT 2022
-freemarker-2.3.23.jar>BAMS.public.maven.global=
-freemarker-2.3.23-sources.jar>atlassian-public=
-freemarker-2.3.23.pom>central=
-freemarker-2.3.23-sources.jar>central=
-freemarker-2.3.23.jar>central=
-freemarker-2.3.23.jar>atlassian-public=
-freemarker-2.3.23.pom>atlassian-public=

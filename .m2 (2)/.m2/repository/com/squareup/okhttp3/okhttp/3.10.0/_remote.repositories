@@ -1,8 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Nov 24 13:49:47 IST 2021
-okhttp-3.10.0.pom>atlassian-public=
-okhttp-3.10.0.pom>central=
-okhttp-3.10.0.pom>BAMS.public.maven.global=
-okhttp-3.10.0-sources.jar>atlassian-public=
-okhttp-3.10.0.jar>BAMS.public.maven.global=
-okhttp-3.10.0.jar>atlassian-public=

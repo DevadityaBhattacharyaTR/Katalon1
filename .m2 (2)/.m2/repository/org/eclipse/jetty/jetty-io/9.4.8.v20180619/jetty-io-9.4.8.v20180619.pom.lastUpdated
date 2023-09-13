@@ -1,7 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Sep 23 18:55:44 IST 2020
-@default-bams-aws-https\://bams-aws.refinitiv.com/artifactory/release.maven.global/.lastUpdated=1600867544214
-https\://bams-aws.refinitiv.com/artifactory/public.maven.global/.error=Could not transfer artifact org.eclipse.jetty\:jetty-io\:pom\:9.4.8.v20180619 from/to BAMS.public.maven.global (https\://bams-aws.refinitiv.com/artifactory/public.maven.global)\: Access denied to https\://bams-aws.refinitiv.com/artifactory/public.maven.global/org/eclipse/jetty/jetty-io/9.4.8.v20180619/jetty-io-9.4.8.v20180619.pom. Error code 403, 
-https\://m2proxy.atlassian.com/repository/public/.lastUpdated=1600867544407
-https\://bams-aws.refinitiv.com/artifactory/release.maven.global/.error=Could not transfer artifact org.eclipse.jetty\:jetty-io\:pom\:9.4.8.v20180619 from/to bams-aws (https\://bams-aws.refinitiv.com/artifactory/release.maven.global/)\: Access denied to https\://bams-aws.refinitiv.com/artifactory/release.maven.global/org/eclipse/jetty/jetty-io/9.4.8.v20180619/jetty-io-9.4.8.v20180619.pom. Error code 403, 
-38c20064d863858af4962038d59859896f92f238@default-BAMS.public.maven.global-https\://bams-aws.refinitiv.com/artifactory/public.maven.global/.lastUpdated=1600867544192

@@ -1,7 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Sat Aug 29 00:21:00 IST 2020
-https\://bams-aws.refinitiv.com/artifactory/public.maven.global/.error=Could not transfer artifact org.apache.ant\:ant-junit\:jar\:1.10.7 from/to BAMS.public.maven.global (https\://bams-aws.refinitiv.com/artifactory/public.maven.global)\: Access denied to https\://bams-aws.refinitiv.com/artifactory/public.maven.global/org/apache/ant/ant-junit/1.10.7/ant-junit-1.10.7.jar. Error code 403, 
-https\://m2proxy.atlassian.com/repository/public/.lastUpdated=1598640660102
-38c20064d863858af4962038d59859896f92f238@default-BAMS.public.maven.global-https\://bams-aws.refinitiv.com/artifactory/public.maven.global/.lastUpdated=1598640648841
-https\://bams-aws.refinitiv.com/artifactory/release.maven.global/.error=Could not transfer artifact org.apache.ant\:ant-junit\:jar\:1.10.7 from/to bams-aws (https\://bams-aws.refinitiv.com/artifactory/release.maven.global/)\: Access denied to https\://bams-aws.refinitiv.com/artifactory/release.maven.global/org/apache/ant/ant-junit/1.10.7/ant-junit-1.10.7.jar. Error code 403, 
-@default-bams-aws-https\://bams-aws.refinitiv.com/artifactory/release.maven.global/.lastUpdated=1598640649410

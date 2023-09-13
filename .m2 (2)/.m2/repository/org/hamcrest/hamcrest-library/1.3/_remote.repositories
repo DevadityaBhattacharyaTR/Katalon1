@@ -1,8 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Nov 14 12:08:42 GMT 2022
-hamcrest-library-1.3.jar>central=
-hamcrest-library-1.3.pom>central=
-hamcrest-library-1.3-sources.jar>BAMS.public.maven.global=
-hamcrest-library-1.3.jar>BAMS.public.maven.global=
-hamcrest-library-1.3.pom>BAMS.public.maven.global=
-hamcrest-library-1.3-sources.jar>central=

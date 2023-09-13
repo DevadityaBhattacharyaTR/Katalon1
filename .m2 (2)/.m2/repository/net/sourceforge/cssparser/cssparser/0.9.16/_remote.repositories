@@ -1,7 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Feb 09 11:13:16 IST 2022
-cssparser-0.9.16.jar>BAMS.public.maven.global=
-cssparser-0.9.16.pom>central=
-cssparser-0.9.16.pom>BAMS.public.maven.global=
-cssparser-0.9.16-sources.jar>BAMS.public.maven.global=
-cssparser-0.9.16.pom>atlassian-public=

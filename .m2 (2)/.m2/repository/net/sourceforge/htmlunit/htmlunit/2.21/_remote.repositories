@@ -1,7 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon May 04 15:17:12 IST 2020
-htmlunit-2.21.jar>atlassian-public=
-htmlunit-2.21.pom>atlassian-public=
-htmlunit-2.21-sources.jar>central=
-htmlunit-2.21.pom>central=
-htmlunit-2.21.jar>central=

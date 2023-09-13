@@ -1,5 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Apr 19 14:42:40 GMT 2023
-@default-TRJFROG-release-https\://tr1.jfrog.io/tr1/libs-release/.lastUpdated=1681915360056
-https\://repo.maven.apache.org/maven2/.lastUpdated=1681915360152
-https\://tr1.jfrog.io/tr1/libs-release/.error=Could not transfer artifact io.opentelemetry\:opentelemetry-api-metrics\:pom\:1.9.0-alpha from/to TRJFROG-release (https\://tr1.jfrog.io/tr1/libs-release)\: Access denied to https\://tr1.jfrog.io/tr1/libs-release/io/opentelemetry/opentelemetry-api-metrics/1.9.0-alpha/opentelemetry-api-metrics-1.9.0-alpha.pom. Error code 401, 

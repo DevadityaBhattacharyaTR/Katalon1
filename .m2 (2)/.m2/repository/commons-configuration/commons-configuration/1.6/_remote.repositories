@@ -1,8 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Mon Nov 14 12:09:06 GMT 2022
-commons-configuration-1.6.jar>atlassian-public=
-commons-configuration-1.6-sources.jar>central=
-commons-configuration-1.6.jar>central=
-commons-configuration-1.6.pom>atlassian-public=
-commons-configuration-1.6.pom>central=
-commons-configuration-1.6-sources.jar>atlassian-public=

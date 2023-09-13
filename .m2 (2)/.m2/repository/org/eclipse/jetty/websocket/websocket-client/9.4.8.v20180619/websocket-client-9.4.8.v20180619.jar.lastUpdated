@@ -1,7 +1,0 @@
-#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
-#Wed Sep 23 18:55:57 IST 2020
-@default-bams-aws-https\://bams-aws.refinitiv.com/artifactory/release.maven.global/.lastUpdated=1600867548551
-https\://bams-aws.refinitiv.com/artifactory/public.maven.global/.error=Could not transfer artifact org.eclipse.jetty.websocket\:websocket-client\:jar\:9.4.8.v20180619 from/to BAMS.public.maven.global (https\://bams-aws.refinitiv.com/artifactory/public.maven.global)\: Access denied to https\://bams-aws.refinitiv.com/artifactory/public.maven.global/org/eclipse/jetty/websocket/websocket-client/9.4.8.v20180619/websocket-client-9.4.8.v20180619.jar. Error code 403, 
-https\://m2proxy.atlassian.com/repository/public/.lastUpdated=1600867557172
-https\://bams-aws.refinitiv.com/artifactory/release.maven.global/.error=Could not transfer artifact org.eclipse.jetty.websocket\:websocket-client\:jar\:9.4.8.v20180619 from/to bams-aws (https\://bams-aws.refinitiv.com/artifactory/release.maven.global/)\: Access denied to https\://bams-aws.refinitiv.com/artifactory/release.maven.global/org/eclipse/jetty/websocket/websocket-client/9.4.8.v20180619/websocket-client-9.4.8.v20180619.jar. Error code 403, 
-38c20064d863858af4962038d59859896f92f238@default-BAMS.public.maven.global-https\://bams-aws.refinitiv.com/artifactory/public.maven.global/.lastUpdated=1600867548292
